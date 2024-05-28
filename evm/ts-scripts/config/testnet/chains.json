@@ -12,18 +12,6 @@
       "evmNetworkId": 421614,
       "chainId": 10003,
       "rpc": "https://arbitrum-sepolia.blockpi.network/v1/rpc/public"
-    },
-    {
-      "description": "Optimism Sepolia",
-      "evmNetworkId": 11155420,
-      "chainId": 10005,
-      "rpc": "https://rpc.ankr.com/optimism_sepolia"
-    },
-    {
-      "description": "Base Sepolia",
-      "evmNetworkId": 84532,
-      "chainId": 10004,
-      "rpc": "https://sepolia.base.org"
     }
   ]
 }

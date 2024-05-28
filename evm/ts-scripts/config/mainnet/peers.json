@@ -12,28 +12,5 @@
     "isWormholeRelayingEnabled": true,
     "isWormholeEvmChain": true,
     "isSpecialRelayingEnabled": false
-  },
-  {
-    "chainId": 24,
-    "decimals": 18,
-    "isWormholeRelayingEnabled": true,
-    "isWormholeEvmChain": true,
-    "isSpecialRelayingEnabled": false
-  },
-  {
-    "chainId": 30,
-    "decimals": 18,
-    "isWormholeRelayingEnabled": true,
-    "isWormholeEvmChain": true,
-    "isSpecialRelayingEnabled": false
-  },
-  {
-    "chainId": 1,
-    "decimals": 6,
-    "managerAddress": "NTtAaoDJhkeHeaVUHnyhwbPNAN6WgBpHkHBTc6d7vLK",
-    "transceiverAddress": "ExVbjD8inGXkt7Cx8jVr4GF175sQy1MeqgfaY53Ah8as",
-    "isWormholeRelayingEnabled": false,
-    "isWormholeEvmChain": false,
-    "isSpecialRelayingEnabled": true
   }
 ]
