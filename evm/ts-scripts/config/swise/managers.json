@@ -6,7 +6,7 @@
     "rateLimitDuration": 86400,
     "skipRateLimit": false,
     "threshold": 1,
-    "outboundLimit": 10000000000000000000000,
+    "outboundLimit": 100000000000000000000000000,
     "inboundLimit": [
       { "chainId": 23, "limit": "100000000000000000000000000" }
     ]
@@ -18,7 +18,7 @@
     "rateLimitDuration": 86400,
     "skipRateLimit": false,
     "threshold": 1,
-    "outboundLimit": 10000000000000000000000,
+    "outboundLimit": 100000000000000000000000000,
     "inboundLimit": [
       { "chainId": 2, "limit": "100000000000000000000000000" }
     ]
