@@ -1,0 +1,16 @@
+[
+  {
+    "chainId": 2,
+    "decimals": 18,
+    "isWormholeRelayingEnabled": true,
+    "isWormholeEvmChain": true,
+    "isSpecialRelayingEnabled": false
+  },
+  {
+    "chainId": 23,
+    "decimals": 18,
+    "isWormholeRelayingEnabled": true,
+    "isWormholeEvmChain": true,
+    "isSpecialRelayingEnabled": false
+  }
+]

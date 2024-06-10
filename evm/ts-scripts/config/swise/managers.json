@@ -1,0 +1,26 @@
+[
+  {
+    "token": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
+    "mode": 0,
+    "chainId": 2,
+    "rateLimitDuration": 86400,
+    "skipRateLimit": false,
+    "threshold": 1,
+    "outboundLimit": 10000000000000000000000,
+    "inboundLimit": [
+      { "chainId": 23, "limit": "100000000000000000000000000" }
+    ]
+  },
+  {
+    "token": "0x4026AFfABd9032bCC87Fa05C02F088905f3dC09B",
+    "mode": 1,
+    "chainId": 23,
+    "rateLimitDuration": 86400,
+    "skipRateLimit": false,
+    "threshold": 1,
+    "outboundLimit": 10000000000000000000000,
+    "inboundLimit": [
+      { "chainId": 2, "limit": "100000000000000000000000000" }
+    ]
+  }
+]

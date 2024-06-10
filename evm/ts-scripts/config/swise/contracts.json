@@ -1,0 +1,82 @@
+{
+  "WormholeCoreContracts": [
+    {
+      "chainId": 2,
+      "address": "0x98f3c9e6E3fAce36bAAd05FE09d375Ef1464288B"
+    },
+    {
+      "chainId": 23,
+      "address": "0xa5f208e072434bC67592E4C49C1B991BA79BCA46"
+    }
+  ],
+  "WormholeRelayers": [
+    {
+      "chainId": 2,
+      "address": "0x27428DD2d3DD32A4D7f7C497eAaa23130d894911"
+    },
+    {
+      "chainId": 23,
+      "address": "0x27428DD2d3DD32A4D7f7C497eAaa23130d894911"
+    }
+  ],
+  "SpecializedRelayers": [
+    {
+      "address": "0x63BE47835c7D66c4aA5B2C688Dc6ed9771c94C74",
+      "chainId": 2
+    },
+    {
+      "address": "0x63BE47835c7D66c4aA5B2C688Dc6ed9771c94C74",
+      "chainId": 23
+    }
+  ],
+  "NttManagerImplementations": [
+    {
+      "address": "0x5077e2E712195626F181715CFCb494ed24bae129",
+      "chainId": 2
+    },
+    {
+      "address": "0x5077e2E712195626F181715CFCb494ed24bae129",
+      "chainId": 23
+    }
+  ],
+  "NttManagerProxies": [
+    {
+      "address": "0xE3620C1aE560AF090704899aCA62209C31C4c77b",
+      "chainId": 2
+    },
+    {
+      "address": "0xE3620C1aE560AF090704899aCA62209C31C4c77b",
+      "chainId": 23
+    }
+  ],
+  "TransceiverStructsLibs": [
+    {
+      "chainId": 2,
+      "address": "0x5Aba9c0a39F50e1bf0B72504b4B480a07ca60d7C"
+    },
+    {
+      "chainId": 23,
+      "address": "0x5Aba9c0a39F50e1bf0B72504b4B480a07ca60d7C"
+    }
+  ],
+  "NttTransceiverImplementations": [
+    {
+      "address": "0xd161Ac038c1A80F54d6ed54f18cB340989dBd51B",
+      "chainId": 2
+    },
+    {
+      "address": "0xd161Ac038c1A80F54d6ed54f18cB340989dBd51B",
+      "chainId": 23
+    }
+  ],
+  "NttTransceiverProxies": [
+    {
+      "address": "0x7c34962B4738BAE5DbE8577d4FB05355E0ebbC26",
+      "chainId": 2
+    },
+    {
+      "address": "0x7c34962B4738BAE5DbE8577d4FB05355E0ebbC26",
+      "chainId": 23
+    }
+  ]
+}

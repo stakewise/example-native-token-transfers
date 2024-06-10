@@ -1,0 +1,12 @@
+[
+  {
+    "chainId": 2,
+    "consistencyLevel": 1,
+    "gasLimit": 200000
+  },
+  {
+    "chainId": 23,
+    "consistencyLevel": 1,
+    "gasLimit": 200000
+  }
+]

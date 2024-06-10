@@ -1,0 +1,17 @@
+{
+  "guardianSetIndex": 4,
+  "chains": [
+    {
+      "description": "Ethereum",
+      "evmNetworkId": 1,
+      "chainId": 2,
+      "rpc": "https://eth.llamarpc.com"
+    },
+    {
+      "description": "Arbitrum",
+      "evmNetworkId": 42161,
+      "chainId": 23,
+      "rpc": "https://arbitrum.llamarpc.com"
+    }
+  ]
+}
